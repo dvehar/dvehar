@@ -1,4 +1,3 @@
 👋&nbsp;&nbsp;Hi, I’m Desmond Vehar
-<br>📫&nbsp;&nbsp;You can reach me at <First Name><Last Name>@gmail.com
 <br>
-<br>**Check out my personal site: [dvehar.github.io](https://dvehar.github.io/)**
+<br>**Check out my site: [dvehar.github.io](https://dvehar.github.io/)**
